@@ -13,7 +13,7 @@ pyasn1==0.4.5
 python-env==1.0.0
 pytz==2019.1
 requests==2.22.0
-rsa==4.0
+rsa==4.7
 six==1.12.0
 sqlparse==0.3.0
 Telethon==1.8.0
